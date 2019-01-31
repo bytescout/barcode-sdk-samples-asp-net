@@ -1,13 +1,13 @@
 ## Index of source code examples:
 
-\Generate barcode in ASPNET MVC
+\Generate Barcode in ASP.NET MVC
 \Generate Barcode In C# Backend
-\Generate barcode in C# Local Reports (RDLC)
-\Generate barcode in VB Non Visual class
-\Generate barcode in VB.NET Local Reports (RDLC) copy
-\Generate barcode in WebImage control in VB.NET
-\Generate Barcode with WebImage control in C#
-\Generate SSRS VS 2008 reports
-\Generate barcode in ASPNET MVC\Generate barcode in aspnet mvc
-\Generate barcode in ASPNET MVC\packages
-\Generate barcode in ASPNET MVC\Generate barcode in aspnet mvc\Helpers
+\Generate Barcode in C# Local Reports (RDLC)
+\Generate Barcode in VB Non-Visual class
+\Generate Barcode in VB.NET Local Reports (RDLC)
+\Generate Barcode in WebImage Control in VB.NET
+\Generate Barcode With WebImage Control in C#
+\Generate SSRS Reports VS 2008
+\Generate Barcode in ASP.NET MVC\Generate barcode in aspnet mvc
+\Generate Barcode in ASP.NET MVC\packages
+\Generate Barcode in ASP.NET MVC\Generate barcode in aspnet mvc\Helpers
