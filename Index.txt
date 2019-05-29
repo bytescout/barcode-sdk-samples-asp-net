@@ -8,6 +8,4 @@
 \Generate Barcode in WebImage Control in VB.NET
 \Generate Barcode With WebImage Control in C#
 \Generate SSRS Reports VS 2008
-\Generate Barcode in ASP.NET MVC\Generate barcode in aspnet mvc
-\Generate Barcode in ASP.NET MVC\packages
-\Generate Barcode in ASP.NET MVC\Generate barcode in aspnet mvc\Helpers
+\Generate Barcode in ASP.NET MVC\Helpers
